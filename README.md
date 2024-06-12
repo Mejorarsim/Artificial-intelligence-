@@ -2,7 +2,7 @@
 
 Explore more projects and connect with me on GitHub:
 
-[Mejorarsim GitHub Profile](https://github.com/Mejorarsim)
+[Profile](https://github.com/Mejorarsim)
 
 ---
 
