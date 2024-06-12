@@ -1,4 +1,8 @@
-Certainly! Below is an improved version of the README file for your GitHub project. This README file explains the purpose of the project, its setup, dependencies, and usage instructions.
+## Connect with Me
+
+Explore more projects and connect with me on GitHub:
+
+[Mejorarsim GitHub Profile](https://github.com/Mejorarsim)
 
 ---
 
